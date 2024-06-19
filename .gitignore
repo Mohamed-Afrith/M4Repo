@@ -1,0 +1,42 @@
+# Node.js
+node_modules/
+
+# React
+build/
+dist/
+coverage/
+
+# Express.js
+dist/
+.env
+
+# Visual Studio Code
+.vscode/
+
+# TypeScript
+*.tsbuildinfo
+
+# Logs
+logs/
+*.log
+
+# Tests
+__tests__/
+test/
+
+# Dependency directories
+.pnpm/
+.pnpm-debug.log
+
+# Yarn
+yarn-error.log
+yarn.lock
+
+*.DS_Store
+
+# Zip and Rar files
+*.zip
+*.rar
+
+.env
+uploads/tta/*.*
